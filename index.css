@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.b ul{
+display: flex;
+position: absolute;
+top: 0;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.b ul a{
+    padding: 30px;
+    padding-top: 40px;
+    text-decoration:dotted;
+    color: white;
+}
+.b ul a:hover{
+    color: greenyellow;
+}
+.b3{
+    position: absolute;
+    top: 28px;
+    right: 48%;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: sandybrown;
+}
+.b3:hover{
+    color: green;
+}
+.c{
+    position: absolute;
+    top: 20%;
+    left: 0;
+}
+.b4{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 20%;
+    width: 10%;
+}
+.b h1{
+    position: absolute;
+    top: 20%;
+    right: 15%;
+    font-size: 50px;
+    color:white;
+}
+.b h2{
+    position: absolute;
+    top: 33%;
+    right: 3%;
+    color: white;
+}
+.b1{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.b1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.b2{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: salmon;
+    border-radius: 10px;
+}
+.b2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.e1{
+    position: absolute;
+    left: 5%;
+    height: 80%;
+    width: 25%;
+    top: 140%;
+}
+.e p{
+    position: absolute;
+    top: 160%;
+    color: white;
+    left: 50%;
+    font-size: 50px;
+    font-family: initial;
+    color:lightseagreen;
+}
+.e h1{
+    position: absolute;
+    top: 173%;
+    color: white;
+    left: 50%;
+}
+.e h3{
+    position: absolute;
+    top: 189%;
+    color: white;
+    left: 50%;
+}
+.b5{
+    position:absolute;
+    top: 212%;
+    background-color: black;
+    color: rgb(86, 139, 136);
+    left: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    height: 8%;
+}
+.b5:hover{
+    background-color: white;
+    text-decoration: dashed;
+    cursor: pointer;
+}
+.last{
+    text-align: center;
+    background-color:rosybrown;
+    height:80vh;
+}
+.last p{
+    font-size: 30px;
+    margin-top: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.last i{
+    padding: 25px;
+    font-size: 30px;
+    margin-top: 2%;
+}
